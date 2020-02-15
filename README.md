@@ -1,4 +1,3 @@
-# CyberSecurity In The Ether
 ![CyberSecurity in the ether logo](cybersecurityintheether.png)
 
 ## What is CyberSecurity in the Ether?
