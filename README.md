@@ -25,11 +25,11 @@ Take a look at the [remote meeting tips](meeting_tips.md) to learn more.
 ## The principle of in the Ether
 We have a few principles to make the meetups as enjoyable an experience as possible:
 
-*_ Remote first: _* everyone should be remote, this makes a level playing field. We embrace the opportunities and uniqueness of being remote, it is not about just trying to replicate a physical meet-up.
+*Remote first:* everyone should be remote, this makes a level playing field. We embrace the opportunities and uniqueness of being remote, it is not about just trying to replicate a physical meet-up.
 
-*_Intentional inclusivity:_* being remote allows people to join that who would otherwise be unable. Either because of location, travel time and cost restrictions or a number of other reasons. Being inclusive also means making sure that everyone has a chance to speak and engage in the conversations.
+*Intentional inclusivity:* being remote allows people to join that who would otherwise be unable. Either because of location, travel time and cost restrictions or a number of other reasons. Being inclusive also means making sure that everyone has a chance to speak and engage in the conversations.
 
-*_Respect and reciprocity:_* this means listening to each other’s questions, ideas and opinions; sharing ideas, stories and guidance and taking part to make a great event.
+*Respect and reciprocity:* this means listening to each other’s questions, ideas and opinions; sharing ideas, stories and guidance and taking part to make a great event.
 
 ## When is the next one?
 Check to see if one has been announced on our eventbrite page
