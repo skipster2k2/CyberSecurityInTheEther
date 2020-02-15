@@ -32,7 +32,9 @@ We have a few principles to make the meetups as enjoyable an experience as possi
 *Respect and reciprocity:* this means listening to each other’s questions, ideas and opinions; sharing ideas, stories and guidance and taking part to make a great event.
 
 ## When is the next one?
-Check to see if one has been announced on our eventbrite page
+Check to see if one has been announced on our [eventbrite page](https://www.eventbrite.co.uk/e/cybersecurity-in-the-ether-tickets-91784482859)
+
+***
 
 
 _“This event is using the in the Ether format, for more info or to find out how to run your own meet-up in the Ether please see intheether.xyz“_
