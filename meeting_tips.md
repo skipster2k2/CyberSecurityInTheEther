@@ -1,6 +1,6 @@
-#Remote meeting tips
+# Remote meeting tips
 
-We are trialing webex as it offers Zoom-like gallery view without Zoom's [security holes](https://www.cvedetails.com/cve/CVE-2004-0680/), whilst webex is not [perfect](https://www.cvedetails.com/cve/CVE-2018-0103/) it's as a classic balance of security/usability. Feedback on its effectiveness is welcome. We use google docs to manage topics, because it’s easy to use and most people have experience of it. These tips make the remote meetings run more smoothly.
+We are trialing webex as it offers Zoom-like gallery view without Zoom's [security holes](https://www.cvedetails.com/cve/CVE-2004-0680/), whilst webex is not [perfect](https://www.cvedetails.com/cve/CVE-2018-0103/) it's as a reasonable balance of security and usability. Feedback on its effectiveness is welcome. We use google docs to manage topics, because it’s easy to use and most people have experience of it. These tips make the remote meetings run more smoothly.
 
 * Find a good internet connection
 * One person / one computer, it’s easier if everyone is on the same footing

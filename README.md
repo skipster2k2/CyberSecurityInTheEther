@@ -2,7 +2,7 @@
 ![CyberSecurity in the ether logo](cybersecurityintheether.png)
 
 ## What is CyberSecurity in the Ether?
-A remote meetup bringing people together from across the globe to discuss all things Cyber Security.
+A remote meetup bringing people together from across the globe to share and discuss all things Cyber Security.
 
 ## How the event works.
 * Everyone joins remotely, once you are signed up a link will be shared with you for the event (one person per computer please, no screen sharing, sorry).
