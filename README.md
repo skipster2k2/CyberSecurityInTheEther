@@ -1,5 +1,5 @@
 # CyberSecurity In The Ether
-![CyberSecurity in the ether logo](cyberether.jpg)
+![CyberSecurity in the ether logo](cybersecurityintheether.png)
 
 ## What is CyberSecurity in the Ether?
 A remote meetup bringing people together from across the globe to discuss all things Cyber Security.
