@@ -22,7 +22,7 @@ The meetup is held online using [Webex](https://webex.com) which means it's wher
 
 Take a look at the [remote meeting tips](meeting_tips.md) to learn more.
 
-## The principle of in the Ether
+## The principles of in the Ether
 We have a few principles to make the meetups as enjoyable an experience as possible:
 
 *Remote first:* everyone should be remote, this makes a level playing field. We embrace the opportunities and uniqueness of being remote, it is not about just trying to replicate a physical meet-up.
