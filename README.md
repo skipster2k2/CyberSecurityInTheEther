@@ -11,7 +11,7 @@ A remote meetup bringing people together from across the globe to share and disc
 * Each topic gets 8 minutes of discussion time, at the end of the 8 minutes, we establish whether to continue with the topic or move on.
 
 ## Where is it?
-The meetup is held online using [Webex](https://webex.com) which means it's wherever you are! There are 25 spaces available for each session and are booked through eventbrite.
+The meetup is held online using [Jitsi](https://jitsi.org/) which means it's wherever you are! There are 25 spaces available for each session and are booked through eventbrite.
 
 ## What do I need to join?
 * A computer with access you can install webex on
