@@ -36,5 +36,8 @@ Check to see if one has been announced on our [eventbrite page](https://www.even
 
 ***
 
+## What was discussed at previous meetups?
+[March 2020 meetup](MarchMeetup.md)
+
 
 _“This event is using the in the Ether format, for more info or to find out how to run your own meet-up in the Ether please see intheether.xyz“_
